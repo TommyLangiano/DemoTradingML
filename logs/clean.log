@@ -1,0 +1,9 @@
+2025-07-04 16:33:32,757 [INFO] Start clean for EURUSD
+2025-07-04 16:33:33,474 [INFO] Rows loaded: 1,837,440
+2025-07-04 16:33:33,582 [INFO] Rows after dedup: 1,837,440
+2025-07-04 16:33:33,628 [INFO] Schema Pandera → ✅ OK
+2025-07-04 16:34:23,132 [INFO] Start clean for EURUSD
+2025-07-04 16:34:23,853 [INFO] Rows loaded: 1,837,440
+2025-07-04 16:34:23,962 [INFO] Rows after dedup: 1,837,440
+2025-07-04 16:34:24,029 [INFO] Schema Pandera → ✅ OK
+2025-07-04 16:34:25,540 [INFO] ✅ Clean parquet salvato: data/processed/EURUSD_M1_clean.parquet

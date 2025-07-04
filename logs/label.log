@@ -1,0 +1,12 @@
+2025-07-04 16:35:54,638 [INFO] Rows loaded: 1,837,440
+2025-07-04 16:35:54,639 [INFO] Start labeling... Horizon: 20, TP: 0.001, SL: 0.001
+2025-07-04 16:36:01,631 [INFO] Done labeling. Dropping last 20 rows (tail horizon)...
+2025-07-04 16:36:01,721 [INFO] Rows after dropping tail: 1,837,420
+2025-07-04 16:36:01,789 [ERROR] Schema validation failed:
+expected series 'Label' to have type int64, got float64
+2025-07-04 16:40:32,021 [INFO] Rows loaded: 1,837,440
+2025-07-04 16:40:32,022 [INFO] Start labeling... Horizon: 20, TP: 0.001, SL: 0.001
+2025-07-04 16:40:38,948 [INFO] Done labeling. Dropping last 20 rows (tail horizon)...
+2025-07-04 16:40:39,034 [INFO] Rows after dropping tail: 1,837,420
+2025-07-04 16:40:39,098 [INFO] Schema ✅ OK – Positives: 5.56%
+2025-07-04 16:40:39,373 [INFO] ✅ Label parquet salvato: data/processed/EURUSD_M1_labeled.parquet
