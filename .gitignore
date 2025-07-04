@@ -1,0 +1,7 @@
+# artefatti
+data/
+models/
+__pycache__/
+*.parquet
+*.pkl
+*.onnx
